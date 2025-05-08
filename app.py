@@ -5,7 +5,7 @@ from paginas.modelos_mais_vendidos import pagina_modelos_mais_vendidos
 from paginas.faturamento_mensal import pagina_faturamento_mensal
 
 st.set_page_config(page_title="Dashboard BMW", layout="wide")
-st.sidebar.image("./imagens/bmw.png", use_column_width=True)
+st.sidebar.image("./imagens/bmw.png", width=200)
 st.sidebar.title("Navegação")
 pagina = st.sidebar.selectbox("Selecione a página", [
     "Painel de vendas",
