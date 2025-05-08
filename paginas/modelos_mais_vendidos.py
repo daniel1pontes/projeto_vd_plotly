@@ -60,13 +60,9 @@ def pagina_modelos_mais_vendidos():
         # Formata colunas
         tabela["Valor médio (R$)"] = tabela["valor_medio"].map("R${:,.2f}".format)
         
-        # Exibe com gradiente na quantidade
+        # Exibe a tabela
         st.dataframe(
-            tabela[["modelo", "quantidade_vendida", "Valor médio (R$)"]]
-                .style.background_gradient(
-                    cmap='Blues',
-                    subset=['quantidade_vendida']
-                ),
+            tabela[["modelo", "quantidade_vendida", "Valor médio (R$)"]],
             column_config={
                 "modelo": "Modelo",
                 "quantidade_vendida": "Quantidade vendida",
