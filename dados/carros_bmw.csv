@@ -1,0 +1,501 @@
+id_carro,modelo,fabricacao,ano_fabricacao,cor,motor,preco,quilometragem,data_entrada_estoque
+1,Série 4,Araquari - Brasil,2023,Verde,3.0 Turbo,260022.71,5681,2024-10-12
+2,Série 1,Regensburg - Alemanha,2024,Branco,Elétrico,618203.79,6584,2024-09-07
+3,X2,Munique - Alemanha,2022,Vermelho,3.0 Turbo,467405.61,9175,2024-07-28
+4,X1,Munique - Alemanha,2024,Vermelho,3.0 Turbo,745984.6,49312,2024-07-12
+5,X1,Regensburg - Alemanha,2022,Verde,Elétrico,502388.96,8071,2025-04-21
+6,Série 5,Araquari - Brasil,2022,Vermelho,3.0 Turbo,567176.15,38638,2025-03-26
+7,Série 4,Munique - Alemanha,2020,Vermelho,Elétrico,188175.83,47841,2024-12-07
+8,i7,Araquari - Brasil,2023,Azul,Elétrico,171985.44,25167,2024-11-11
+9,Série 3,Araquari - Brasil,2022,Preto,2.0 Turbo,700353.3,23038,2024-12-12
+10,iX,Araquari - Brasil,2020,Vermelho,Elétrico,764372.27,28140,2024-09-05
+11,X7,Regensburg - Alemanha,2024,Vermelho,3.0 Turbo,584340.1,20611,2024-06-28
+12,Série 2,Regensburg - Alemanha,2020,Prata,Elétrico,646820.25,9163,2025-01-25
+13,Série 1,Araquari - Brasil,2024,Azul,3.0 Turbo,418054.94,16238,2024-06-28
+14,Série 3,Leipzig - Alemanha,2023,Cinza,Elétrico,697654.07,18151,2025-04-30
+15,Série 8,Regensburg - Alemanha,2022,Preto,2.0 Turbo,300431.7,42245,2024-10-03
+16,X1,Leipzig - Alemanha,2021,Cinza,3.0 Turbo,609660.22,5521,2024-06-30
+17,i4,Leipzig - Alemanha,2024,Cinza,3.0 Turbo,155941.95,16263,2025-04-11
+18,iX3,Araquari - Brasil,2022,Branco,3.0 Turbo,478726.4,36267,2024-05-31
+19,Série 1,Leipzig - Alemanha,2021,Branco,Elétrico,392580.45,39387,2024-11-19
+20,i7,Leipzig - Alemanha,2021,Cinza,2.0 Turbo,551592.9,39322,2024-11-26
+21,Série 8,Leipzig - Alemanha,2024,Verde,2.0 Turbo,583390.57,47263,2025-02-10
+22,i7,Araquari - Brasil,2022,Prata,2.0 Turbo,550737.58,39819,2024-10-23
+23,X7,Araquari - Brasil,2021,Branco,2.0 Turbo,464082.7,18672,2024-05-11
+24,X1,Regensburg - Alemanha,2020,Branco,Elétrico,467105.35,45251,2024-05-11
+25,Z4,Regensburg - Alemanha,2020,Branco,3.0 Turbo,154298.03,1757,2024-11-23
+26,iX,Leipzig - Alemanha,2022,Branco,Híbrido,508568.31,43149,2025-01-15
+27,X2,Araquari - Brasil,2023,Preto,2.0 Turbo,157703.13,19768,2024-12-23
+28,Série 1,Araquari - Brasil,2020,Cinza,Híbrido,494121.47,13464,2024-11-13
+29,Série 7,Leipzig - Alemanha,2024,Verde,Elétrico,328581.48,33931,2025-01-29
+30,X7,Regensburg - Alemanha,2022,Verde,Elétrico,785361.58,39775,2025-03-23
+31,X4,Araquari - Brasil,2021,Preto,Híbrido,161142.69,33392,2024-07-19
+32,X2,Regensburg - Alemanha,2020,Azul,3.0 Turbo,678552.19,12363,2024-08-09
+33,Série 5,Leipzig - Alemanha,2022,Verde,Híbrido,588121.42,49010,2024-08-24
+34,Série 8,Araquari - Brasil,2022,Azul,Elétrico,674009.0,25673,2024-08-24
+35,X4,Leipzig - Alemanha,2023,Verde,Híbrido,741352.69,19368,2024-10-14
+36,Série 4,Munique - Alemanha,2021,Vermelho,2.0 Turbo,219560.68,42347,2024-05-26
+37,Série 3,Leipzig - Alemanha,2021,Azul,2.0 Turbo,212604.03,3576,2025-04-12
+38,X6,Leipzig - Alemanha,2021,Preto,3.0 Turbo,246783.37,15685,2025-03-22
+39,Série 4,Leipzig - Alemanha,2024,Vermelho,Híbrido,274755.84,32432,2025-01-05
+40,X5,Araquari - Brasil,2022,Cinza,Híbrido,492196.39,25289,2024-11-23
+41,X5,Leipzig - Alemanha,2024,Verde,Híbrido,679889.35,7388,2024-12-15
+42,iX3,Leipzig - Alemanha,2024,Azul,Híbrido,323761.08,15799,2024-05-10
+43,X2,Munique - Alemanha,2022,Branco,3.0 Turbo,407982.67,32740,2024-11-24
+44,Série 2,Araquari - Brasil,2021,Azul,Elétrico,392483.53,41817,2024-11-18
+45,Z4,Munique - Alemanha,2022,Prata,3.0 Turbo,413917.82,38923,2025-03-10
+46,i7,Leipzig - Alemanha,2023,Branco,Elétrico,517251.42,4653,2024-07-09
+47,Série 4,Araquari - Brasil,2022,Branco,Elétrico,793651.47,34621,2024-12-31
+48,X6,Munique - Alemanha,2022,Branco,Elétrico,296807.21,790,2025-02-24
+49,Série 3,Leipzig - Alemanha,2020,Verde,Híbrido,594627.06,23664,2024-06-25
+50,i7,Regensburg - Alemanha,2023,Vermelho,3.0 Turbo,701113.62,20740,2024-10-02
+51,X3,Munique - Alemanha,2020,Verde,Elétrico,574928.22,8649,2024-10-08
+52,iX3,Araquari - Brasil,2021,Azul,2.0 Turbo,707842.45,25351,2025-02-20
+53,X5,Munique - Alemanha,2021,Verde,Elétrico,643730.8,37249,2024-11-15
+54,iX,Munique - Alemanha,2023,Branco,3.0 Turbo,210775.33,27581,2025-04-23
+55,Série 8,Munique - Alemanha,2024,Vermelho,Híbrido,396521.61,23947,2024-07-03
+56,Série 3,Regensburg - Alemanha,2022,Prata,2.0 Turbo,509255.94,35806,2025-01-01
+57,Série 2,Araquari - Brasil,2020,Preto,Elétrico,186474.71,44757,2024-06-18
+58,X1,Araquari - Brasil,2023,Prata,Híbrido,156142.61,11322,2025-04-28
+59,X3,Araquari - Brasil,2020,Cinza,3.0 Turbo,261399.32,49986,2025-01-27
+60,Série 3,Leipzig - Alemanha,2022,Vermelho,3.0 Turbo,474907.96,30868,2025-02-10
+61,X1,Araquari - Brasil,2024,Vermelho,2.0 Turbo,432041.27,4783,2024-08-14
+62,Série 4,Araquari - Brasil,2020,Branco,2.0 Turbo,659844.6,1093,2025-04-15
+63,X6,Regensburg - Alemanha,2023,Prata,Elétrico,517806.81,38493,2024-07-02
+64,X2,Leipzig - Alemanha,2022,Azul,Híbrido,707674.2,4425,2024-11-03
+65,Z4,Leipzig - Alemanha,2022,Cinza,Híbrido,211985.19,903,2025-03-13
+66,X5,Munique - Alemanha,2024,Verde,3.0 Turbo,493303.47,17182,2024-07-16
+67,Série 7,Leipzig - Alemanha,2023,Vermelho,3.0 Turbo,177658.64,14138,2024-07-12
+68,X5,Leipzig - Alemanha,2022,Verde,Elétrico,287421.09,2610,2025-04-02
+69,X5,Regensburg - Alemanha,2020,Prata,Elétrico,714275.98,3962,2024-08-18
+70,Série 8,Araquari - Brasil,2021,Branco,3.0 Turbo,726910.3,26081,2024-06-16
+71,X2,Leipzig - Alemanha,2023,Azul,3.0 Turbo,459075.19,33201,2024-08-27
+72,Série 3,Leipzig - Alemanha,2020,Branco,Híbrido,180265.28,18775,2024-11-24
+73,iX3,Regensburg - Alemanha,2024,Cinza,Híbrido,198326.24,41194,2024-05-13
+74,Série 7,Leipzig - Alemanha,2024,Verde,Híbrido,751630.13,46702,2024-10-25
+75,i7,Leipzig - Alemanha,2022,Verde,Elétrico,734552.57,32836,2024-08-03
+76,X1,Regensburg - Alemanha,2024,Prata,Híbrido,516281.41,27225,2024-07-29
+77,Série 7,Munique - Alemanha,2021,Verde,2.0 Turbo,171386.16,27759,2024-07-02
+78,Z4,Munique - Alemanha,2020,Branco,2.0 Turbo,753698.13,45993,2024-11-22
+79,X6,Leipzig - Alemanha,2023,Cinza,Híbrido,354415.05,26363,2024-10-12
+80,X2,Leipzig - Alemanha,2022,Vermelho,Híbrido,774954.97,5401,2024-11-29
+81,i7,Araquari - Brasil,2023,Azul,3.0 Turbo,531573.47,41978,2025-02-22
+82,X1,Leipzig - Alemanha,2020,Prata,3.0 Turbo,638965.41,35164,2024-08-17
+83,X4,Araquari - Brasil,2021,Prata,Elétrico,613262.41,35235,2024-08-15
+84,Série 2,Munique - Alemanha,2020,Verde,2.0 Turbo,408892.41,40373,2024-10-18
+85,X1,Leipzig - Alemanha,2020,Cinza,2.0 Turbo,200009.37,10006,2024-09-09
+86,Série 2,Leipzig - Alemanha,2022,Verde,Elétrico,255592.66,18184,2024-11-08
+87,X4,Regensburg - Alemanha,2023,Prata,Híbrido,306306.93,5478,2025-04-30
+88,X6,Leipzig - Alemanha,2020,Azul,Híbrido,692522.86,20310,2024-11-06
+89,X2,Munique - Alemanha,2020,Azul,Elétrico,402951.79,5178,2025-02-11
+90,Série 3,Leipzig - Alemanha,2021,Prata,2.0 Turbo,732741.75,33508,2024-07-10
+91,Série 8,Araquari - Brasil,2024,Branco,2.0 Turbo,365624.4,13316,2024-11-08
+92,iX,Leipzig - Alemanha,2021,Verde,Híbrido,641146.02,10182,2024-10-10
+93,X4,Araquari - Brasil,2023,Branco,3.0 Turbo,240967.89,35152,2024-06-13
+94,Série 8,Regensburg - Alemanha,2023,Verde,Elétrico,792510.67,21413,2024-10-16
+95,i3,Leipzig - Alemanha,2022,Azul,Elétrico,620706.32,25606,2024-10-09
+96,X6,Regensburg - Alemanha,2024,Branco,Híbrido,475515.35,38432,2024-12-27
+97,Z4,Regensburg - Alemanha,2023,Verde,Elétrico,783310.16,41569,2025-02-16
+98,Série 5,Leipzig - Alemanha,2024,Cinza,2.0 Turbo,184902.68,42587,2025-02-19
+99,X2,Araquari - Brasil,2021,Preto,Híbrido,434107.36,44633,2024-08-18
+100,Série 5,Leipzig - Alemanha,2023,Vermelho,2.0 Turbo,695138.53,42149,2025-03-20
+101,X1,Araquari - Brasil,2020,Prata,3.0 Turbo,371385.29,4332,2024-06-20
+102,i7,Regensburg - Alemanha,2023,Verde,Elétrico,649853.67,20327,2024-08-21
+103,i7,Munique - Alemanha,2024,Cinza,Elétrico,770657.96,45788,2024-05-26
+104,X2,Leipzig - Alemanha,2023,Azul,2.0 Turbo,407856.98,28671,2024-05-08
+105,iX,Munique - Alemanha,2022,Preto,Híbrido,652810.7,47838,2025-02-18
+106,X7,Araquari - Brasil,2020,Vermelho,Híbrido,169256.68,15639,2025-02-23
+107,iX,Leipzig - Alemanha,2022,Verde,Elétrico,327662.57,3794,2024-08-06
+108,X6,Munique - Alemanha,2021,Azul,2.0 Turbo,795180.82,16022,2024-11-16
+109,X5,Munique - Alemanha,2023,Verde,3.0 Turbo,468892.25,5650,2024-09-08
+110,X1,Leipzig - Alemanha,2023,Preto,2.0 Turbo,381277.28,28474,2024-06-13
+111,Série 5,Munique - Alemanha,2021,Cinza,Híbrido,761742.85,7601,2024-11-11
+112,i4,Leipzig - Alemanha,2022,Preto,Elétrico,430701.17,29712,2024-06-19
+113,i3,Munique - Alemanha,2020,Verde,Elétrico,591801.66,40127,2024-10-06
+114,Série 3,Regensburg - Alemanha,2022,Branco,Elétrico,579436.74,39900,2025-02-26
+115,Série 2,Leipzig - Alemanha,2024,Cinza,3.0 Turbo,205701.18,3606,2024-08-15
+116,Série 4,Regensburg - Alemanha,2022,Prata,3.0 Turbo,552100.33,20269,2025-03-17
+117,Série 5,Regensburg - Alemanha,2020,Azul,Híbrido,668735.86,43652,2025-03-14
+118,Série 7,Munique - Alemanha,2023,Branco,2.0 Turbo,613520.55,48607,2025-03-27
+119,X7,Araquari - Brasil,2022,Verde,2.0 Turbo,203324.71,43126,2024-05-27
+120,iX3,Regensburg - Alemanha,2021,Prata,2.0 Turbo,250243.63,48539,2025-02-17
+121,Série 3,Regensburg - Alemanha,2020,Preto,3.0 Turbo,612590.15,11511,2024-10-26
+122,X6,Regensburg - Alemanha,2023,Branco,Elétrico,562035.57,7827,2024-08-27
+123,X6,Araquari - Brasil,2020,Verde,Híbrido,630775.94,830,2024-12-17
+124,iX3,Araquari - Brasil,2021,Prata,Híbrido,355840.85,46392,2024-08-19
+125,Z4,Regensburg - Alemanha,2024,Cinza,3.0 Turbo,219258.1,8992,2024-05-24
+126,i4,Araquari - Brasil,2020,Preto,3.0 Turbo,153376.89,45973,2024-11-11
+127,X2,Araquari - Brasil,2020,Prata,Elétrico,350373.85,743,2024-10-19
+128,i7,Araquari - Brasil,2022,Preto,Elétrico,383946.37,10736,2024-12-11
+129,Série 1,Leipzig - Alemanha,2021,Prata,3.0 Turbo,325348.19,32532,2025-03-02
+130,Série 4,Regensburg - Alemanha,2021,Azul,Híbrido,236129.55,22721,2025-02-07
+131,i7,Araquari - Brasil,2024,Cinza,Elétrico,271804.66,34275,2024-08-15
+132,X2,Leipzig - Alemanha,2021,Branco,Elétrico,441748.39,33896,2024-05-10
+133,X4,Munique - Alemanha,2020,Prata,Híbrido,510581.0,47236,2024-08-27
+134,Série 4,Munique - Alemanha,2024,Preto,Elétrico,415228.71,16990,2025-04-02
+135,X3,Araquari - Brasil,2021,Cinza,Híbrido,167070.24,10942,2024-11-11
+136,X7,Regensburg - Alemanha,2024,Branco,2.0 Turbo,380044.29,24370,2024-06-07
+137,Série 7,Araquari - Brasil,2021,Preto,Elétrico,210491.77,8318,2024-10-14
+138,Z4,Munique - Alemanha,2021,Cinza,Elétrico,538728.47,49137,2024-08-23
+139,Série 1,Regensburg - Alemanha,2022,Preto,2.0 Turbo,360879.71,17613,2024-08-28
+140,X2,Regensburg - Alemanha,2021,Verde,Híbrido,400404.65,48033,2024-12-31
+141,i4,Munique - Alemanha,2024,Vermelho,Elétrico,339700.78,7736,2024-12-16
+142,Série 7,Leipzig - Alemanha,2020,Vermelho,2.0 Turbo,402069.71,1923,2024-12-09
+143,i4,Leipzig - Alemanha,2022,Cinza,Híbrido,205054.69,21955,2024-08-11
+144,Série 4,Araquari - Brasil,2021,Verde,Elétrico,735738.43,28136,2025-05-01
+145,X3,Regensburg - Alemanha,2021,Branco,3.0 Turbo,738384.92,17824,2024-06-06
+146,i4,Araquari - Brasil,2024,Branco,2.0 Turbo,785812.49,34331,2024-06-13
+147,iX3,Regensburg - Alemanha,2022,Preto,Híbrido,521774.28,4185,2024-12-08
+148,Série 8,Munique - Alemanha,2021,Cinza,3.0 Turbo,260228.9,17232,2025-01-07
+149,Série 5,Regensburg - Alemanha,2020,Verde,Híbrido,397475.82,46682,2024-10-12
+150,X5,Regensburg - Alemanha,2020,Prata,3.0 Turbo,240246.04,37791,2024-10-15
+151,Série 7,Munique - Alemanha,2021,Vermelho,3.0 Turbo,345735.32,41125,2025-02-15
+152,i7,Leipzig - Alemanha,2020,Verde,2.0 Turbo,470530.56,5050,2024-11-05
+153,i4,Munique - Alemanha,2022,Branco,2.0 Turbo,191123.65,32515,2024-11-07
+154,Série 1,Regensburg - Alemanha,2021,Verde,3.0 Turbo,432539.58,29831,2024-12-14
+155,iX3,Munique - Alemanha,2024,Vermelho,2.0 Turbo,423716.52,33474,2024-07-07
+156,X4,Regensburg - Alemanha,2022,Prata,Híbrido,464750.35,23601,2024-07-21
+157,i3,Leipzig - Alemanha,2020,Prata,Elétrico,199998.88,3633,2025-01-19
+158,Série 1,Leipzig - Alemanha,2021,Azul,Híbrido,313604.83,32742,2024-08-19
+159,Série 4,Regensburg - Alemanha,2022,Preto,3.0 Turbo,310283.54,37151,2025-02-24
+160,X5,Leipzig - Alemanha,2020,Preto,Híbrido,556271.9,10936,2025-03-28
+161,X3,Munique - Alemanha,2021,Preto,3.0 Turbo,535974.16,24096,2025-04-18
+162,X1,Leipzig - Alemanha,2023,Cinza,Híbrido,277106.35,10309,2024-07-13
+163,Série 2,Araquari - Brasil,2024,Branco,Híbrido,219532.04,16719,2025-04-12
+164,X1,Leipzig - Alemanha,2020,Verde,2.0 Turbo,348027.7,6743,2025-01-02
+165,iX,Araquari - Brasil,2020,Branco,3.0 Turbo,766735.25,37611,2025-02-01
+166,Série 3,Munique - Alemanha,2023,Azul,3.0 Turbo,365941.19,44179,2025-01-03
+167,Série 3,Leipzig - Alemanha,2023,Vermelho,Elétrico,553124.92,47368,2024-09-02
+168,i3,Leipzig - Alemanha,2022,Azul,Híbrido,672649.7,7558,2024-09-10
+169,Série 3,Leipzig - Alemanha,2024,Azul,Híbrido,364202.12,14968,2025-04-13
+170,i7,Munique - Alemanha,2024,Prata,Elétrico,367578.55,48547,2025-04-25
+171,Série 5,Munique - Alemanha,2020,Preto,3.0 Turbo,680059.06,33346,2024-10-08
+172,Série 5,Araquari - Brasil,2023,Verde,Híbrido,708680.5,168,2024-07-21
+173,i3,Regensburg - Alemanha,2024,Cinza,Elétrico,783246.49,2886,2024-08-15
+174,i7,Munique - Alemanha,2021,Branco,Elétrico,238480.91,805,2024-10-02
+175,Série 7,Leipzig - Alemanha,2024,Cinza,Elétrico,358432.35,16026,2024-11-23
+176,X2,Araquari - Brasil,2020,Preto,Híbrido,765731.3,3013,2025-03-13
+177,i4,Leipzig - Alemanha,2024,Preto,3.0 Turbo,280553.47,30917,2024-08-30
+178,iX3,Leipzig - Alemanha,2022,Branco,3.0 Turbo,354219.13,23853,2024-09-11
+179,X7,Munique - Alemanha,2023,Prata,Elétrico,776973.51,25098,2025-01-04
+180,Série 8,Regensburg - Alemanha,2020,Vermelho,Elétrico,779671.39,9835,2024-09-07
+181,i7,Leipzig - Alemanha,2020,Verde,3.0 Turbo,339441.3,11728,2025-01-26
+182,Série 8,Munique - Alemanha,2023,Azul,Elétrico,601722.55,2317,2024-06-03
+183,X3,Araquari - Brasil,2023,Prata,Elétrico,469154.75,36232,2025-03-11
+184,X6,Leipzig - Alemanha,2023,Preto,3.0 Turbo,524321.53,46794,2024-08-26
+185,X5,Araquari - Brasil,2020,Preto,Híbrido,307575.79,48540,2025-01-13
+186,Z4,Munique - Alemanha,2023,Verde,Elétrico,394435.95,42972,2024-09-28
+187,i4,Munique - Alemanha,2023,Prata,Híbrido,680721.44,27483,2024-11-07
+188,Z4,Munique - Alemanha,2020,Azul,Elétrico,405407.83,14713,2024-12-11
+189,Série 4,Munique - Alemanha,2020,Azul,Elétrico,224027.09,21089,2025-03-15
+190,X1,Munique - Alemanha,2022,Preto,Elétrico,516502.83,16270,2024-09-11
+191,X1,Regensburg - Alemanha,2024,Vermelho,2.0 Turbo,534947.57,27279,2024-12-20
+192,Série 3,Araquari - Brasil,2021,Azul,Híbrido,504658.91,47204,2024-08-20
+193,X4,Regensburg - Alemanha,2020,Azul,Híbrido,593113.21,20967,2024-11-29
+194,Série 1,Araquari - Brasil,2021,Branco,Elétrico,507564.45,17777,2025-03-11
+195,iX,Leipzig - Alemanha,2022,Vermelho,3.0 Turbo,769453.0,5104,2025-03-31
+196,i7,Leipzig - Alemanha,2024,Branco,Elétrico,450054.44,37456,2025-04-20
+197,X1,Araquari - Brasil,2024,Cinza,2.0 Turbo,610438.58,24432,2025-04-11
+198,iX,Leipzig - Alemanha,2024,Prata,Elétrico,434995.72,7825,2025-04-08
+199,X1,Leipzig - Alemanha,2022,Preto,2.0 Turbo,339365.29,32901,2025-03-10
+200,Série 1,Leipzig - Alemanha,2023,Azul,Elétrico,600342.93,44127,2025-05-04
+201,Série 3,Regensburg - Alemanha,2024,Cinza,Híbrido,682327.62,3451,2025-01-01
+202,Série 2,Regensburg - Alemanha,2024,Branco,Elétrico,667176.94,11753,2024-07-24
+203,X1,Munique - Alemanha,2022,Azul,Híbrido,415942.03,14626,2024-11-20
+204,Série 3,Araquari - Brasil,2023,Prata,3.0 Turbo,474547.09,33801,2025-04-08
+205,Série 2,Leipzig - Alemanha,2024,Branco,3.0 Turbo,561668.43,3009,2024-10-30
+206,X4,Araquari - Brasil,2024,Vermelho,Elétrico,307313.76,26275,2024-09-18
+207,Série 3,Munique - Alemanha,2023,Vermelho,Elétrico,578130.93,4517,2025-01-14
+208,i4,Munique - Alemanha,2020,Preto,3.0 Turbo,614903.65,30480,2024-11-06
+209,X1,Leipzig - Alemanha,2020,Azul,2.0 Turbo,662899.9,18501,2024-05-29
+210,X2,Munique - Alemanha,2024,Cinza,3.0 Turbo,198077.34,20361,2025-04-13
+211,i3,Leipzig - Alemanha,2021,Preto,3.0 Turbo,793955.4,21449,2024-12-30
+212,Série 8,Munique - Alemanha,2023,Azul,2.0 Turbo,461502.55,5661,2024-10-19
+213,i7,Munique - Alemanha,2023,Azul,3.0 Turbo,410523.31,36247,2025-04-08
+214,Série 5,Leipzig - Alemanha,2021,Azul,3.0 Turbo,479298.22,29933,2025-03-02
+215,iX,Munique - Alemanha,2023,Verde,2.0 Turbo,748254.92,522,2025-02-01
+216,iX,Munique - Alemanha,2022,Azul,2.0 Turbo,599610.76,24177,2025-03-16
+217,i3,Munique - Alemanha,2023,Azul,Híbrido,503369.38,13151,2024-05-26
+218,X1,Araquari - Brasil,2023,Preto,Elétrico,663968.6,19109,2024-08-26
+219,i3,Regensburg - Alemanha,2023,Prata,Híbrido,383694.17,36949,2025-02-20
+220,X7,Araquari - Brasil,2020,Verde,2.0 Turbo,732075.98,19917,2024-10-03
+221,Série 8,Munique - Alemanha,2022,Prata,3.0 Turbo,498988.89,48468,2024-11-21
+222,Série 4,Regensburg - Alemanha,2023,Preto,2.0 Turbo,564817.24,40810,2024-08-20
+223,Série 4,Araquari - Brasil,2022,Vermelho,3.0 Turbo,205238.26,15897,2025-02-17
+224,X7,Araquari - Brasil,2022,Prata,Híbrido,649820.13,30403,2024-12-08
+225,X5,Araquari - Brasil,2022,Cinza,Híbrido,577441.07,24135,2025-03-06
+226,X7,Leipzig - Alemanha,2021,Cinza,Híbrido,380755.73,38777,2024-12-29
+227,X7,Munique - Alemanha,2023,Vermelho,3.0 Turbo,570549.9,32332,2025-04-13
+228,Z4,Munique - Alemanha,2020,Preto,Elétrico,178792.85,12807,2024-12-21
+229,Série 2,Regensburg - Alemanha,2020,Cinza,Elétrico,789345.33,48002,2025-04-02
+230,Série 4,Araquari - Brasil,2020,Verde,Elétrico,590356.73,35819,2024-12-22
+231,Série 2,Munique - Alemanha,2020,Preto,2.0 Turbo,409751.54,49838,2025-02-10
+232,X6,Araquari - Brasil,2023,Cinza,2.0 Turbo,639243.81,16064,2024-12-11
+233,X4,Munique - Alemanha,2020,Branco,3.0 Turbo,777715.91,9867,2025-02-01
+234,Série 4,Araquari - Brasil,2022,Vermelho,2.0 Turbo,429796.1,417,2025-04-12
+235,X1,Munique - Alemanha,2021,Vermelho,3.0 Turbo,156856.05,26872,2024-05-08
+236,Série 8,Regensburg - Alemanha,2024,Vermelho,Híbrido,318179.94,1566,2024-10-21
+237,Série 8,Araquari - Brasil,2020,Preto,3.0 Turbo,481939.56,15269,2025-01-31
+238,i7,Munique - Alemanha,2024,Verde,2.0 Turbo,487218.55,35490,2024-05-22
+239,Z4,Regensburg - Alemanha,2024,Azul,Híbrido,527336.89,22703,2024-09-16
+240,Série 5,Regensburg - Alemanha,2024,Vermelho,Híbrido,523903.01,41677,2024-05-26
+241,X7,Munique - Alemanha,2022,Verde,3.0 Turbo,439756.06,45446,2024-09-25
+242,Série 7,Araquari - Brasil,2020,Cinza,Elétrico,404237.21,628,2024-10-17
+243,X2,Leipzig - Alemanha,2023,Branco,2.0 Turbo,652022.45,21955,2025-02-20
+244,Z4,Regensburg - Alemanha,2022,Preto,2.0 Turbo,532583.47,95,2025-01-05
+245,X1,Regensburg - Alemanha,2023,Cinza,Elétrico,475302.76,49737,2024-09-14
+246,Série 3,Munique - Alemanha,2020,Azul,2.0 Turbo,374228.8,43077,2025-03-17
+247,Z4,Leipzig - Alemanha,2022,Cinza,Elétrico,165965.72,24659,2025-03-23
+248,i7,Leipzig - Alemanha,2024,Verde,Elétrico,217957.08,48370,2025-01-24
+249,Série 4,Leipzig - Alemanha,2022,Vermelho,Híbrido,420384.03,47658,2025-03-14
+250,Série 2,Munique - Alemanha,2022,Branco,Híbrido,775123.11,20153,2025-01-05
+251,i7,Araquari - Brasil,2020,Verde,3.0 Turbo,225445.07,6812,2024-09-07
+252,Série 1,Regensburg - Alemanha,2024,Verde,Híbrido,761439.5,13447,2024-10-20
+253,Série 3,Munique - Alemanha,2024,Vermelho,Elétrico,242088.86,34721,2025-01-26
+254,X1,Leipzig - Alemanha,2021,Prata,3.0 Turbo,352728.72,15608,2024-12-18
+255,Série 7,Regensburg - Alemanha,2021,Vermelho,2.0 Turbo,445966.21,27513,2024-05-21
+256,X7,Regensburg - Alemanha,2023,Prata,Elétrico,284463.76,32245,2025-02-09
+257,i3,Leipzig - Alemanha,2021,Vermelho,3.0 Turbo,463901.9,3925,2024-12-19
+258,i3,Leipzig - Alemanha,2020,Branco,Híbrido,459505.65,9330,2025-01-14
+259,Série 8,Regensburg - Alemanha,2022,Verde,Elétrico,434807.86,46638,2025-03-17
+260,X6,Regensburg - Alemanha,2024,Branco,3.0 Turbo,602896.12,18338,2024-12-27
+261,Série 2,Araquari - Brasil,2022,Preto,2.0 Turbo,357291.16,6096,2024-09-29
+262,Série 7,Araquari - Brasil,2020,Vermelho,Elétrico,345171.65,2877,2024-07-04
+263,X6,Munique - Alemanha,2022,Verde,Elétrico,676620.86,15169,2024-10-28
+264,Série 1,Regensburg - Alemanha,2024,Prata,3.0 Turbo,224805.42,34062,2024-05-10
+265,X6,Araquari - Brasil,2021,Preto,3.0 Turbo,701967.01,27070,2024-11-10
+266,X2,Regensburg - Alemanha,2023,Cinza,Híbrido,571180.45,45930,2025-01-10
+267,Z4,Leipzig - Alemanha,2024,Branco,Híbrido,590140.57,24411,2024-09-25
+268,X3,Araquari - Brasil,2024,Preto,Elétrico,256830.16,30045,2025-02-14
+269,X7,Leipzig - Alemanha,2024,Verde,2.0 Turbo,789535.31,49014,2025-02-19
+270,i7,Leipzig - Alemanha,2024,Branco,Híbrido,308543.42,5564,2024-10-06
+271,i3,Leipzig - Alemanha,2020,Preto,2.0 Turbo,263394.6,38061,2025-04-12
+272,Série 5,Munique - Alemanha,2024,Cinza,3.0 Turbo,254088.21,6263,2024-07-03
+273,Série 8,Leipzig - Alemanha,2022,Cinza,3.0 Turbo,513901.82,33123,2025-02-06
+274,X3,Munique - Alemanha,2020,Azul,Híbrido,773000.7,8749,2024-11-22
+275,Série 8,Regensburg - Alemanha,2021,Prata,Elétrico,300706.11,41760,2025-01-02
+276,Série 2,Regensburg - Alemanha,2022,Verde,3.0 Turbo,413280.83,25844,2024-10-15
+277,iX,Araquari - Brasil,2022,Azul,2.0 Turbo,269893.65,4904,2024-11-03
+278,i7,Araquari - Brasil,2022,Prata,Elétrico,566311.27,38790,2024-10-21
+279,Série 2,Munique - Alemanha,2022,Cinza,Híbrido,430887.39,37212,2024-08-12
+280,X4,Regensburg - Alemanha,2020,Preto,3.0 Turbo,168974.98,4081,2024-07-03
+281,Série 2,Araquari - Brasil,2021,Verde,Híbrido,549169.51,28507,2025-03-26
+282,Série 2,Araquari - Brasil,2021,Vermelho,Elétrico,278260.88,43413,2024-05-11
+283,iX,Araquari - Brasil,2024,Branco,Elétrico,534932.05,8566,2024-05-25
+284,i3,Regensburg - Alemanha,2023,Cinza,Elétrico,402743.26,15517,2024-09-14
+285,i4,Araquari - Brasil,2020,Cinza,2.0 Turbo,608078.15,19115,2025-01-18
+286,i4,Regensburg - Alemanha,2021,Verde,Elétrico,283759.91,17104,2025-03-05
+287,Série 7,Leipzig - Alemanha,2020,Verde,Elétrico,639011.57,20644,2025-03-28
+288,Série 2,Leipzig - Alemanha,2020,Preto,3.0 Turbo,675674.36,25752,2024-11-09
+289,i4,Leipzig - Alemanha,2024,Verde,2.0 Turbo,190666.44,45922,2024-10-24
+290,Série 3,Munique - Alemanha,2021,Vermelho,2.0 Turbo,216138.83,48192,2025-02-19
+291,Série 7,Regensburg - Alemanha,2023,Cinza,Híbrido,716786.56,21381,2024-05-29
+292,Série 3,Araquari - Brasil,2023,Cinza,Elétrico,271523.89,20844,2024-06-27
+293,iX3,Munique - Alemanha,2023,Preto,3.0 Turbo,361890.19,29671,2024-09-29
+294,Série 3,Munique - Alemanha,2022,Verde,Híbrido,447407.77,17822,2025-01-25
+295,X1,Leipzig - Alemanha,2021,Cinza,Elétrico,320529.71,15309,2024-08-09
+296,X6,Regensburg - Alemanha,2022,Prata,2.0 Turbo,710713.76,4894,2024-09-26
+297,Série 4,Araquari - Brasil,2022,Prata,Elétrico,493014.76,13284,2024-08-08
+298,iX,Munique - Alemanha,2022,Vermelho,Elétrico,565420.58,8920,2024-07-09
+299,X1,Araquari - Brasil,2024,Prata,3.0 Turbo,538031.04,38319,2025-02-23
+300,iX,Leipzig - Alemanha,2024,Prata,3.0 Turbo,547350.47,7141,2025-04-23
+301,iX3,Regensburg - Alemanha,2020,Cinza,3.0 Turbo,531553.06,10184,2025-03-09
+302,Série 2,Araquari - Brasil,2020,Branco,Híbrido,376151.01,6924,2024-08-13
+303,iX3,Araquari - Brasil,2021,Prata,3.0 Turbo,699586.57,10772,2025-02-19
+304,Série 3,Munique - Alemanha,2021,Vermelho,Híbrido,551285.74,29462,2025-04-13
+305,X7,Araquari - Brasil,2024,Prata,Elétrico,678929.87,30543,2024-05-12
+306,iX,Regensburg - Alemanha,2020,Cinza,Híbrido,608892.43,20580,2024-08-27
+307,iX,Regensburg - Alemanha,2020,Verde,Híbrido,343339.14,26641,2024-08-29
+308,i4,Araquari - Brasil,2022,Azul,3.0 Turbo,549414.94,7912,2025-01-18
+309,X4,Munique - Alemanha,2023,Cinza,3.0 Turbo,205088.78,35122,2025-01-17
+310,X2,Munique - Alemanha,2023,Verde,2.0 Turbo,237066.05,23480,2025-03-10
+311,Série 8,Leipzig - Alemanha,2023,Preto,Híbrido,226610.07,13607,2024-08-04
+312,X4,Regensburg - Alemanha,2024,Vermelho,Elétrico,348497.0,29616,2024-10-05
+313,X1,Leipzig - Alemanha,2023,Prata,2.0 Turbo,268978.94,20205,2025-02-27
+314,X2,Munique - Alemanha,2023,Preto,2.0 Turbo,600733.75,30365,2024-12-01
+315,X6,Leipzig - Alemanha,2022,Prata,2.0 Turbo,482036.17,17367,2024-11-25
+316,Série 5,Munique - Alemanha,2021,Azul,3.0 Turbo,421855.42,7858,2024-10-13
+317,X3,Leipzig - Alemanha,2024,Verde,3.0 Turbo,239613.74,5925,2024-07-01
+318,Z4,Leipzig - Alemanha,2020,Branco,3.0 Turbo,399411.48,10329,2024-11-24
+319,X4,Regensburg - Alemanha,2022,Azul,Elétrico,270739.9,44961,2025-04-10
+320,Série 3,Regensburg - Alemanha,2023,Cinza,Híbrido,563076.07,19937,2024-10-17
+321,Série 1,Leipzig - Alemanha,2020,Cinza,2.0 Turbo,600731.4,46183,2025-02-19
+322,Z4,Munique - Alemanha,2022,Preto,3.0 Turbo,569419.06,45670,2024-09-03
+323,iX3,Munique - Alemanha,2024,Preto,Híbrido,799934.71,39538,2025-01-31
+324,iX,Regensburg - Alemanha,2023,Cinza,2.0 Turbo,510693.17,2643,2024-10-18
+325,Série 4,Regensburg - Alemanha,2024,Vermelho,Híbrido,468267.32,14091,2024-11-27
+326,Série 3,Araquari - Brasil,2022,Cinza,2.0 Turbo,241192.75,21482,2025-02-15
+327,i7,Regensburg - Alemanha,2020,Cinza,Híbrido,354477.01,9720,2024-10-26
+328,Série 8,Munique - Alemanha,2021,Prata,3.0 Turbo,443150.63,5977,2024-09-15
+329,i4,Regensburg - Alemanha,2023,Azul,Híbrido,184847.32,46606,2024-09-01
+330,X2,Araquari - Brasil,2024,Vermelho,Híbrido,383375.46,16267,2024-08-19
+331,Série 5,Leipzig - Alemanha,2020,Prata,2.0 Turbo,156229.24,23313,2025-02-14
+332,X5,Leipzig - Alemanha,2020,Branco,Híbrido,238747.56,25968,2025-02-12
+333,Série 3,Munique - Alemanha,2021,Vermelho,Elétrico,679890.36,33650,2024-11-21
+334,X1,Araquari - Brasil,2022,Prata,2.0 Turbo,776488.91,3208,2024-06-22
+335,X5,Leipzig - Alemanha,2021,Cinza,Híbrido,478534.71,44379,2024-05-07
+336,X3,Leipzig - Alemanha,2021,Prata,Elétrico,471730.4,19584,2024-12-10
+337,Série 7,Regensburg - Alemanha,2022,Preto,2.0 Turbo,595052.84,17050,2025-01-31
+338,Z4,Leipzig - Alemanha,2022,Vermelho,3.0 Turbo,420159.78,11394,2024-08-13
+339,i7,Munique - Alemanha,2022,Verde,2.0 Turbo,695929.67,2036,2024-07-21
+340,X3,Leipzig - Alemanha,2020,Cinza,2.0 Turbo,467654.68,26502,2024-06-04
+341,iX3,Munique - Alemanha,2020,Azul,Híbrido,203735.91,29635,2024-06-09
+342,i4,Munique - Alemanha,2023,Prata,Elétrico,170059.46,36434,2025-04-22
+343,Série 1,Regensburg - Alemanha,2023,Cinza,2.0 Turbo,644686.8,49026,2025-01-10
+344,i7,Araquari - Brasil,2021,Vermelho,2.0 Turbo,339858.44,36052,2024-09-02
+345,X3,Munique - Alemanha,2021,Verde,2.0 Turbo,328654.4,16374,2025-02-14
+346,Série 4,Leipzig - Alemanha,2023,Preto,Híbrido,499445.6,6207,2025-03-02
+347,Série 5,Leipzig - Alemanha,2024,Preto,2.0 Turbo,259335.84,30280,2025-01-22
+348,X2,Munique - Alemanha,2021,Vermelho,Elétrico,447258.9,6678,2024-12-15
+349,Série 4,Leipzig - Alemanha,2024,Vermelho,Híbrido,632636.86,9161,2025-04-23
+350,Série 4,Regensburg - Alemanha,2024,Prata,3.0 Turbo,647847.71,7959,2025-02-27
+351,i7,Leipzig - Alemanha,2022,Cinza,3.0 Turbo,507322.02,783,2024-05-24
+352,Série 5,Regensburg - Alemanha,2020,Azul,Híbrido,223587.15,4041,2025-04-13
+353,X2,Munique - Alemanha,2023,Verde,Elétrico,224234.32,14567,2024-07-22
+354,X3,Munique - Alemanha,2020,Vermelho,Híbrido,653823.47,8566,2024-06-09
+355,iX3,Munique - Alemanha,2023,Vermelho,Híbrido,685133.83,12984,2024-08-06
+356,Série 8,Regensburg - Alemanha,2020,Branco,Híbrido,388460.15,26252,2025-01-21
+357,X4,Leipzig - Alemanha,2023,Preto,Híbrido,684697.1,24395,2025-02-05
+358,Série 8,Regensburg - Alemanha,2020,Branco,2.0 Turbo,177046.84,44976,2025-04-17
+359,X2,Leipzig - Alemanha,2022,Verde,3.0 Turbo,617337.16,41307,2025-02-12
+360,i4,Leipzig - Alemanha,2024,Azul,Elétrico,505129.63,42250,2025-03-28
+361,i3,Regensburg - Alemanha,2023,Vermelho,2.0 Turbo,793354.22,5507,2025-04-29
+362,X2,Araquari - Brasil,2024,Verde,3.0 Turbo,216570.69,38163,2024-09-09
+363,Série 2,Munique - Alemanha,2023,Prata,Híbrido,689545.97,38411,2025-01-18
+364,Série 3,Leipzig - Alemanha,2023,Preto,3.0 Turbo,638374.57,16962,2024-06-10
+365,X7,Leipzig - Alemanha,2022,Branco,3.0 Turbo,343510.81,4914,2024-05-07
+366,X2,Regensburg - Alemanha,2020,Preto,2.0 Turbo,799553.24,1428,2024-05-09
+367,Série 2,Araquari - Brasil,2023,Branco,2.0 Turbo,442326.02,4225,2025-02-13
+368,Série 1,Munique - Alemanha,2020,Verde,Elétrico,376575.03,12959,2024-06-24
+369,X4,Araquari - Brasil,2022,Vermelho,Híbrido,680873.58,42335,2024-06-08
+370,Série 5,Munique - Alemanha,2021,Cinza,Híbrido,435395.44,29060,2024-05-11
+371,X2,Leipzig - Alemanha,2024,Cinza,Híbrido,796072.49,8440,2024-10-22
+372,Série 7,Leipzig - Alemanha,2023,Prata,3.0 Turbo,654160.57,6027,2025-01-17
+373,Z4,Regensburg - Alemanha,2022,Azul,3.0 Turbo,304014.94,21728,2024-09-07
+374,i7,Regensburg - Alemanha,2020,Preto,Híbrido,676956.77,8029,2025-01-10
+375,X7,Araquari - Brasil,2023,Azul,Elétrico,532150.53,2798,2024-05-12
+376,i7,Araquari - Brasil,2020,Branco,3.0 Turbo,377910.05,30211,2025-03-21
+377,Série 1,Munique - Alemanha,2021,Vermelho,Elétrico,611990.07,3318,2024-12-30
+378,Série 4,Regensburg - Alemanha,2023,Prata,3.0 Turbo,561300.91,11009,2024-10-15
+379,Série 3,Leipzig - Alemanha,2024,Cinza,2.0 Turbo,257888.05,37610,2025-03-05
+380,Série 5,Regensburg - Alemanha,2023,Cinza,2.0 Turbo,240502.73,28387,2024-11-21
+381,i7,Araquari - Brasil,2024,Prata,Híbrido,284302.78,47476,2025-02-02
+382,Série 2,Regensburg - Alemanha,2020,Verde,2.0 Turbo,284512.77,25886,2025-03-30
+383,X5,Leipzig - Alemanha,2023,Preto,3.0 Turbo,188582.59,32514,2024-05-08
+384,iX,Regensburg - Alemanha,2022,Azul,3.0 Turbo,378030.06,1932,2025-02-11
+385,i7,Araquari - Brasil,2022,Branco,2.0 Turbo,332705.26,25082,2024-10-07
+386,Série 5,Leipzig - Alemanha,2021,Azul,2.0 Turbo,500199.55,44775,2024-05-17
+387,X7,Munique - Alemanha,2022,Cinza,2.0 Turbo,360374.85,27961,2024-10-01
+388,Série 5,Munique - Alemanha,2021,Prata,Híbrido,607634.95,11325,2025-02-27
+389,Série 2,Leipzig - Alemanha,2020,Cinza,2.0 Turbo,338066.61,23196,2025-05-03
+390,X3,Leipzig - Alemanha,2024,Vermelho,3.0 Turbo,323772.99,14071,2024-08-18
+391,X5,Leipzig - Alemanha,2020,Cinza,2.0 Turbo,707710.95,12265,2024-12-30
+392,Série 2,Araquari - Brasil,2024,Branco,Híbrido,790567.4,18021,2024-10-29
+393,X5,Leipzig - Alemanha,2024,Preto,Híbrido,591544.56,18340,2024-11-04
+394,Série 8,Araquari - Brasil,2021,Preto,3.0 Turbo,211896.36,29229,2024-12-14
+395,X1,Leipzig - Alemanha,2022,Vermelho,3.0 Turbo,775801.8,9740,2024-12-24
+396,Série 4,Araquari - Brasil,2022,Branco,2.0 Turbo,660699.18,2270,2025-04-13
+397,X5,Araquari - Brasil,2021,Prata,3.0 Turbo,747199.66,40246,2025-01-01
+398,i7,Regensburg - Alemanha,2021,Azul,Elétrico,795116.05,40578,2024-12-07
+399,X7,Munique - Alemanha,2020,Prata,3.0 Turbo,713580.93,40434,2025-01-15
+400,iX3,Leipzig - Alemanha,2021,Azul,Elétrico,232477.31,16107,2024-12-02
+401,Série 5,Munique - Alemanha,2022,Preto,Elétrico,712951.22,42420,2024-08-10
+402,X1,Munique - Alemanha,2021,Cinza,3.0 Turbo,312290.21,19340,2024-09-03
+403,Série 7,Regensburg - Alemanha,2021,Verde,Elétrico,612406.65,32695,2024-08-10
+404,Série 7,Munique - Alemanha,2024,Cinza,3.0 Turbo,688513.17,27000,2024-07-16
+405,X7,Munique - Alemanha,2021,Vermelho,3.0 Turbo,644957.83,36089,2024-05-19
+406,Série 1,Leipzig - Alemanha,2020,Prata,Híbrido,589552.46,31393,2024-05-23
+407,Série 7,Araquari - Brasil,2021,Branco,Elétrico,468148.17,3996,2025-03-05
+408,X4,Leipzig - Alemanha,2023,Azul,Elétrico,525326.59,5748,2024-08-03
+409,X7,Leipzig - Alemanha,2023,Cinza,2.0 Turbo,324666.15,18335,2025-02-13
+410,X1,Munique - Alemanha,2024,Vermelho,3.0 Turbo,419246.31,25101,2024-09-29
+411,X2,Munique - Alemanha,2024,Prata,Híbrido,443794.62,8993,2025-04-19
+412,Série 7,Leipzig - Alemanha,2023,Branco,Híbrido,561858.05,27474,2024-06-06
+413,Série 4,Leipzig - Alemanha,2024,Preto,2.0 Turbo,722081.3,13071,2025-02-08
+414,X6,Munique - Alemanha,2024,Branco,Elétrico,210511.61,42116,2024-08-29
+415,Série 2,Araquari - Brasil,2022,Verde,Híbrido,485148.76,34459,2024-10-23
+416,i3,Araquari - Brasil,2022,Preto,Elétrico,330846.7,16328,2024-10-27
+417,X1,Leipzig - Alemanha,2021,Prata,Híbrido,758618.47,41337,2024-08-30
+418,Série 8,Araquari - Brasil,2023,Branco,Híbrido,389896.26,35629,2024-06-10
+419,Z4,Leipzig - Alemanha,2020,Vermelho,3.0 Turbo,767665.15,1279,2024-11-23
+420,X5,Regensburg - Alemanha,2023,Prata,Elétrico,362738.03,25067,2024-07-26
+421,X3,Munique - Alemanha,2023,Preto,Híbrido,151607.51,46751,2025-03-06
+422,X1,Leipzig - Alemanha,2022,Verde,3.0 Turbo,653187.94,23534,2025-01-19
+423,X1,Leipzig - Alemanha,2022,Vermelho,Híbrido,626270.62,31436,2025-03-09
+424,Série 1,Leipzig - Alemanha,2024,Verde,3.0 Turbo,625105.76,35685,2025-04-28
+425,Série 8,Araquari - Brasil,2020,Cinza,3.0 Turbo,447992.02,31763,2025-03-20
+426,X6,Leipzig - Alemanha,2022,Vermelho,Elétrico,581693.48,22546,2024-07-09
+427,X4,Regensburg - Alemanha,2024,Cinza,3.0 Turbo,382844.77,37070,2024-12-01
+428,X2,Araquari - Brasil,2020,Vermelho,Híbrido,191164.95,32924,2024-12-20
+429,Série 3,Munique - Alemanha,2022,Preto,2.0 Turbo,497375.9,21076,2025-04-17
+430,X2,Regensburg - Alemanha,2023,Azul,Híbrido,291589.46,25452,2024-09-23
+431,X5,Leipzig - Alemanha,2023,Azul,Híbrido,429268.02,17723,2024-10-06
+432,i4,Regensburg - Alemanha,2020,Cinza,3.0 Turbo,287703.45,11784,2024-09-25
+433,X6,Leipzig - Alemanha,2020,Cinza,Híbrido,324548.94,1708,2025-02-13
+434,i7,Regensburg - Alemanha,2022,Verde,3.0 Turbo,688423.35,20897,2024-12-10
+435,X4,Araquari - Brasil,2022,Branco,Elétrico,369540.85,39132,2024-10-17
+436,Série 1,Leipzig - Alemanha,2020,Vermelho,3.0 Turbo,525656.87,14353,2024-07-11
+437,Série 4,Araquari - Brasil,2020,Vermelho,Elétrico,517992.37,1920,2024-11-23
+438,X2,Regensburg - Alemanha,2024,Vermelho,2.0 Turbo,465469.64,18411,2024-07-28
+439,Série 7,Leipzig - Alemanha,2024,Vermelho,Híbrido,373430.75,3839,2025-04-18
+440,iX,Munique - Alemanha,2024,Branco,Elétrico,593658.75,30912,2024-07-13
+441,X2,Munique - Alemanha,2023,Verde,2.0 Turbo,181466.02,34696,2024-09-13
+442,Série 2,Leipzig - Alemanha,2023,Cinza,3.0 Turbo,214723.58,23424,2024-08-25
+443,Série 4,Regensburg - Alemanha,2024,Azul,2.0 Turbo,659528.35,38272,2024-05-26
+444,iX3,Munique - Alemanha,2024,Branco,Elétrico,448728.15,15254,2024-08-22
+445,X7,Leipzig - Alemanha,2020,Preto,Híbrido,230754.17,10461,2024-06-05
+446,X5,Munique - Alemanha,2023,Branco,2.0 Turbo,707473.54,6562,2024-10-20
+447,X4,Leipzig - Alemanha,2024,Verde,2.0 Turbo,436835.87,16243,2025-01-13
+448,X7,Regensburg - Alemanha,2021,Branco,3.0 Turbo,150439.36,43048,2025-01-07
+449,iX3,Regensburg - Alemanha,2022,Branco,3.0 Turbo,772720.65,15804,2024-07-24
+450,i4,Araquari - Brasil,2024,Verde,Híbrido,281506.83,17467,2024-08-06
+451,Série 4,Munique - Alemanha,2023,Prata,3.0 Turbo,597584.72,34975,2025-04-05
+452,X6,Araquari - Brasil,2024,Preto,Elétrico,235743.51,48303,2025-04-14
+453,iX,Regensburg - Alemanha,2021,Cinza,Elétrico,572498.18,3664,2024-08-31
+454,Série 8,Leipzig - Alemanha,2020,Azul,2.0 Turbo,253335.35,14379,2025-02-13
+455,X2,Regensburg - Alemanha,2023,Azul,3.0 Turbo,756271.62,37728,2024-05-13
+456,Série 2,Regensburg - Alemanha,2020,Cinza,3.0 Turbo,328112.65,25455,2025-03-15
+457,X7,Leipzig - Alemanha,2022,Prata,2.0 Turbo,575482.18,23252,2024-11-30
+458,Série 1,Araquari - Brasil,2020,Verde,Híbrido,312753.03,11384,2024-07-08
+459,i4,Munique - Alemanha,2024,Azul,3.0 Turbo,391698.45,11540,2025-02-16
+460,i7,Regensburg - Alemanha,2021,Branco,3.0 Turbo,737470.17,15502,2024-08-01
+461,Série 8,Regensburg - Alemanha,2020,Azul,Híbrido,257591.3,38831,2025-04-22
+462,X5,Munique - Alemanha,2021,Preto,3.0 Turbo,407622.02,20840,2024-10-28
+463,X7,Regensburg - Alemanha,2023,Preto,Elétrico,348581.01,48372,2025-03-14
+464,Série 3,Munique - Alemanha,2023,Cinza,Elétrico,604636.89,45719,2024-06-08
+465,X4,Munique - Alemanha,2024,Prata,Híbrido,302193.5,23513,2024-12-21
+466,iX3,Munique - Alemanha,2024,Vermelho,Híbrido,576065.4,38768,2024-09-10
+467,X4,Leipzig - Alemanha,2024,Vermelho,Elétrico,607403.73,1848,2024-07-27
+468,Série 4,Araquari - Brasil,2021,Prata,Elétrico,150706.1,46101,2024-05-24
+469,X3,Araquari - Brasil,2022,Azul,Elétrico,459924.36,45911,2025-03-03
+470,i4,Leipzig - Alemanha,2022,Prata,Elétrico,236254.86,23047,2025-01-12
+471,X3,Araquari - Brasil,2022,Verde,Híbrido,297024.06,37201,2024-07-10
+472,X7,Araquari - Brasil,2023,Prata,Híbrido,591988.77,36936,2024-07-25
+473,X4,Araquari - Brasil,2023,Verde,2.0 Turbo,156036.52,9312,2024-10-01
+474,X6,Regensburg - Alemanha,2022,Azul,Híbrido,602138.12,36903,2024-10-06
+475,X3,Leipzig - Alemanha,2024,Preto,Elétrico,681120.87,12336,2024-07-06
+476,i7,Araquari - Brasil,2020,Branco,3.0 Turbo,792300.69,32258,2024-09-14
+477,Série 5,Leipzig - Alemanha,2022,Cinza,Elétrico,424504.06,35528,2024-05-12
+478,Série 8,Araquari - Brasil,2020,Vermelho,Elétrico,235913.85,20254,2025-03-05
+479,X7,Araquari - Brasil,2022,Preto,Híbrido,196038.4,11505,2025-04-05
+480,X6,Leipzig - Alemanha,2020,Prata,2.0 Turbo,398995.45,32141,2024-07-09
+481,Série 7,Munique - Alemanha,2024,Prata,3.0 Turbo,624996.2,2487,2024-06-29
+482,iX3,Leipzig - Alemanha,2023,Vermelho,3.0 Turbo,216577.66,5915,2025-02-16
+483,iX,Munique - Alemanha,2022,Azul,2.0 Turbo,353678.46,3681,2025-01-19
+484,X3,Regensburg - Alemanha,2022,Cinza,Elétrico,722642.85,15245,2024-10-11
+485,X6,Leipzig - Alemanha,2024,Branco,Híbrido,239134.04,39430,2024-06-09
+486,i7,Munique - Alemanha,2021,Verde,Elétrico,652749.31,14339,2024-08-29
+487,Série 1,Araquari - Brasil,2022,Verde,3.0 Turbo,639552.57,1306,2024-08-24
+488,X3,Regensburg - Alemanha,2020,Azul,3.0 Turbo,236545.05,34501,2025-02-03
+489,X3,Leipzig - Alemanha,2024,Vermelho,Elétrico,795411.1,31325,2024-12-28
+490,Série 8,Munique - Alemanha,2021,Azul,3.0 Turbo,242854.49,44,2025-03-16
+491,X7,Munique - Alemanha,2022,Branco,Híbrido,494830.38,21740,2024-12-18
+492,iX,Leipzig - Alemanha,2022,Verde,3.0 Turbo,155508.58,40247,2024-06-21
+493,iX3,Munique - Alemanha,2023,Branco,Híbrido,572513.14,13203,2024-07-24
+494,X4,Leipzig - Alemanha,2021,Prata,Elétrico,436064.62,8551,2024-08-14
+495,Z4,Munique - Alemanha,2024,Azul,Elétrico,619580.82,22331,2024-12-23
+496,Z4,Araquari - Brasil,2020,Verde,Híbrido,558252.02,46985,2024-10-27
+497,Z4,Leipzig - Alemanha,2022,Preto,Híbrido,248393.19,11630,2024-05-20
+498,Série 8,Leipzig - Alemanha,2024,Verde,Híbrido,417611.43,21206,2025-01-05
+499,i4,Regensburg - Alemanha,2023,Preto,3.0 Turbo,596268.01,3903,2024-06-05
+500,i3,Araquari - Brasil,2022,Azul,Elétrico,708975.64,1436,2025-02-19
